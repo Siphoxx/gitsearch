@@ -1,0 +1,17 @@
+.user-details {
+  text-align: center;
+  margin: 20px;
+}
+
+.user-details img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.external-link {
+  color: green;
+  text-decoration: none;
+  margin-top: 20px;
+  display: inline-block;
+}

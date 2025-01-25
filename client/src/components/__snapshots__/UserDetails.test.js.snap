@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders user details and matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="loader"
+    />
+      
+    <h2>
+      Repositories for octocat
+    </h2>
+    <ul />
+    <nav>
+      <ul
+        class="pagination"
+      />
+    </nav>
+     
+  </div>
+</DocumentFragment>
+`;

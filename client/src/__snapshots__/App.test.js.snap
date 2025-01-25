@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders GitHub UserSearch heading 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      GitHub UserSearch
+    </h1>
+    <div
+      class="user-search"
+    >
+      <input
+        placeholder="Search for a GitHub user"
+        type="text"
+        value=""
+      />
+      <button>
+        Search
+      </button>
+      <ul
+        class="user-list"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

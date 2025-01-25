@@ -1,0 +1,43 @@
+.user-search {
+  text-align: center;
+  margin: 20px;
+}
+
+.user-search input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.user-search button {
+  padding: 10px;
+}
+
+.loader {
+  margin: 20px;
+  font-size: 18px;
+}
+
+.error {
+  color: red;
+}
+
+.user-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-item {
+  margin: 10px 0;
+}
+
+.user-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.external-link {
+  color: green;
+  text-decoration: none;
+  margin-left: 10px;
+}
